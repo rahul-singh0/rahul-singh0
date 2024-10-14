@@ -8,12 +8,12 @@ Hi, I’m Rahul. I hold a degree in Computer Science and have two years of techn
 🎓 Education
 - Cardiff University - BSc Computer Science 2.1
 - Key Modules Studied: <br>
-  Data Processing and Visualisation<br>
-  Problem Solving with Python<br>
-  Database Systems<br>
-  Large-Scale Databases<br>
-  Informatics<br>
-  Knowledge Management
+  - Data Processing and Visualisation<br>
+  - Problem Solving with Python<br>
+  - Database Systems<br>
+  - Large-Scale Databases<br>
+  - Informatics<br>
+  - Knowledge Management
 
 🛠️ Skills
 - Programming Languages: SQL, Python, R, HTML/CSS/JavaScript
