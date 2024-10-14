@@ -1,5 +1,5 @@
 <h2>Introduction</h2>
-Hi, I'm Rahul, a Computer Science graduate with 2 years of industry experience, now transitioning into a data and business-oriented analyst role. I'm currently developing my skills through relevant courses and hands-on projects in data analysis.
+Hi, I’m Rahul. I hold a degree in Computer Science and have two years of technical industry experience. I am now transitioning into a data and business-oriented analysis role, where I aim to leverage data to inform strategic decisions. Currently, I am further developing my skills through comprehensive courses and practical projects, with a focus on data analysis, visualisation, and business insights.
 
 <br>📚 <a href=''><b>My Portfolio</b></a>
 
