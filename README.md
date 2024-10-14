@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hey, I'm Rahul. Welcome to my portfolio.
+***
+📚 Projects
 
-<!--
-**rahul-singh0/rahul-singh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Education
+- Cardiff University - BSc Computer Science 2.1
+- Key Modules Studied: <br>
+  Data Processing and Visualisation<br>
+  Problem Solving with Python<br>
+  Database Systems<br>
+  Large-Scale Databases<br>
+  Informatics<br>
+  Knowledge Management
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+- Programming Languages: SQL, Python, R, HTML/CSS/JavaScript
+- Tools: Power BI, Tableau, Excel (Microsoft Office Suite), Google Analytics, Jira, and Git/GitHub.
