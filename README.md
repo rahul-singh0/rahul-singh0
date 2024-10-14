@@ -17,7 +17,8 @@ Hi, I’m Rahul. I hold a degree in Computer Science and have two years of techn
 
 🛠️ Skills
 - Programming Languages: SQL, Python, R, HTML/CSS/JavaScript
-- Tools: Power BI, Tableau, Excel (Microsoft Office Suite), Google Analytics, Jira, and Git/GitHub
+- Data Tools: Power BI, Tableau, Excel
+- Other Tools: Microsoft Office Suite, Google Analytics, Jira, and Git/GitHub
 
 👋 Connect with me -
 <a href='https://www.linkedin.com/in/-rahul-singh/'>LinkedIn</a>
