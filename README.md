@@ -1,7 +1,7 @@
 <h2>Introduction</h2>
 Hi, I’m Rahul. I hold a degree in Computer Science and have two years of technical industry experience. I am now transitioning into a data and business-oriented analysis role, where I aim to leverage data to inform strategic decisions. Currently, I am further developing my skills through comprehensive courses and practical projects, with a focus on data analysis, visualisation, and business insights.
 
-<br>📚 Explore my data analysis projects - <a href='https://github.com/rahul-singh0/portfolio/blob/main/README.md'><b>My Portfolio</b></a>
+<br>📚 <a href='https://github.com/rahul-singh0/portfolio/blob/main/README.md'><b>My Portfolio</b></a> - Explore my data analysis projects.
 
 <h3>About Me</h3>
 
