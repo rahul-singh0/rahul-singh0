@@ -12,6 +12,7 @@ Hi, I’m Rahul. I hold a degree in Computer Science and have two years of techn
   - Problem Solving with Python<br>
   - Database Systems<br>
   - Large-Scale Databases<br>
+  - Computational Mathematics
   - Informatics<br>
   - Knowledge Management
 
