@@ -13,8 +13,6 @@ Hi, I’m Rahul. I hold a degree in Computer Science and have two years of techn
   - Database Systems<br>
   - Large-Scale Databases<br>
   - Computational Mathematics
-  - Informatics<br>
-  - Knowledge Management
 
 🛠️ Skills
 - Programming Languages: SQL, Python, R, HTML/CSS/JavaScript
