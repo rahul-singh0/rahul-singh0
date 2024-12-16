@@ -1,4 +1,4 @@
-<br>📚 <a href='https://github.com/rahul-singh0/portfolio/blob/main/README.md'><b>My Portfolio</b></a> - Explore my data analysis projects.
+<br>📚 <a href='https://github.com/rahul-singh0/portfolio/blob/main/README.md'><b>My Portfolio</b></a> - Explore my analysis projects.
 
 <h3>About Me</h3>
 
